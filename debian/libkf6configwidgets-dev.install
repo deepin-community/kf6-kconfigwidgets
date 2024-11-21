@@ -1,0 +1,4 @@
+usr/include/KF6/KConfigWidgets/
+usr/lib/*/cmake/KF6ConfigWidgets/
+usr/lib/*/libKF6ConfigWidgets.so
+usr/lib/*/qt6/plugins/designer/kconfigwidgets6widgets.so
