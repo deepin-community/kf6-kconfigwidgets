@@ -1,2 +1,3 @@
 cross.patch
 disable_kconfigdialog_unittests.patch
+find_qt6_guiprivate_on_qt610.patch
